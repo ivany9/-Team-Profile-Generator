@@ -59,13 +59,12 @@ email
  ivany9@hotmail.com
 **MOCK-UP
 
-      Tests
-     ![alltest](https://user-images.githubusercontent.com/83906297/128635000-6e8e06e3-8b87-4b96-9548-a592834fd2be.gif)
+   Tests
+   ![alltest](https://user-images.githubusercontent.com/83906297/128635000-6e8e06e3-8b87-4b96-9548-a592834fd2be.gif)
      
-     HTML
-     ![html](https://user-images.githubusercontent.com/83906297/128635015-e50dc471-1a66-4c0e-a548-b744f5c3a14a.gif)
+   HTML
+   ![html](https://user-images.githubusercontent.com/83906297/128635015-e50dc471-1a66-4c0e-a548-b744f5c3a14a.gif)
      
-     node.index
-     ![node index2](https://user-images.githubusercontent.com/83906297/128635031-81fa690b-427e-4969-8405-c7ab228495c6.gif)
-
+   node.index
+   ![node index2](https://user-images.githubusercontent.com/83906297/128635031-81fa690b-427e-4969-8405-c7ab228495c6.gif
 
