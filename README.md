@@ -22,16 +22,16 @@
 
 ## Intallation
 
-```javascript
+```bash
 >npm install 
 >npm init
- 
 
+```
 
 
 ## Usage
 
-```javascript
+```bash
 
  Manager
 
