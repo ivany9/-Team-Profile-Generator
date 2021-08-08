@@ -1,17 +1,13 @@
 const Engineer = require("../lib/Engineer");
-//import Engineer from "../lib/Engineer"; in ES6
 
-describe("Engineer", () => {
+test("Can I get role from the method", () => {
+    const role = "Engineer";
+    const engi = new Engineer("name", 1,"ivany9@test.com","ivany9");
+    expect(engi.getRole()).toBe(role);
+  });
 
-    it("Can get gitHub username from constructor", () => {
-        const username = "HelloWorld";
-        const eng = new Engineer("name", "id", "email", username)
-        expect(eng.getGitHub()).toBe(username)
-    })
-
-    it("Can get role from class", () => {
-        const eng = new Engineer();
-        expect(eng.getRole()).toBe("Engineer")
-    })
-
-})
+  test("Can I get GitHub from the method", () => {
+    const github = "ivany9";
+    const engi = new Engineer("name", 1,"ivany9@test.com",github);
+    expect(engi.getGitHub()).toBe(github);
+  });
