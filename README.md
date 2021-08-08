@@ -66,5 +66,6 @@ email
    ![html](https://user-images.githubusercontent.com/83906297/128635015-e50dc471-1a66-4c0e-a548-b744f5c3a14a.gif)
      
    node.index
-   ![node index2](https://user-images.githubusercontent.com/83906297/128635031-81fa690b-427e-4969-8405-c7ab228495c6.gif
+  ![node index2](https://user-images.githubusercontent.com/83906297/128635119-15fdbab4-2c04-4368-92a8-0e7590943e53.gif)
+
 
