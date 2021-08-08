@@ -1,31 +1,70 @@
-🥇 README FILE GENERATOR 🥇
-badge
 
-🕹️ Description
-    Sometimes we need to create a good Readme File, but sometimes  is the last part of our job, and is takes times.
-     So this application allows the user generate a nice and fast Readme File, and you can use anytime, and for every single            develop
-     that the user have.
-Actual Behaviour
-** The Readme File Generator is one of the nice projects for my assignment at the university of Sydney, this is a tool, just answering the main questions, the user can get a fancy readme follow the markdown structure. The Main Questions are same likes the Table of Contents.
+# 🥇 TEAM PROFILE GENERATOR 
 
-** The Application allow the user to pick a licence for default, and fill the question with a short explanation.
 
-** The licese Bring the Icon of the type of license, and the link of it, so the user can check the rules of the license.
-
-*GitHub and email can be add in the questions.
-
-*table of contents is generade automatly.
 
 🎫 Table of Contents
-Description
-Installation
-Usage
-License
-Contribute
-Questions
+[Description][#Description]
+[Installation][#Installation]
+[Usage][#usage]
+[License][#License]
+[Contribute][#Contribute]
+
+
+
+## 🕹️ Description
+    
+ ## Actual Behaviour
+ The Team Profile Genetator is  pplication that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+ The team have just one Manager, and you can genereta  team members with  Engineer and Intern roles. The sumaries for each member are difertents. Also you can acces to the links that are genereted on the HTML.
+
+
+
+## Intallation
+
+```javascript
+>npm install 
+>npm init
+ 
+
+
+
+## Usage
+
+```javascript
+
+ Manager
+
+ ?name
+ ?id
+ ?email
+ ?OfficeNumber
+
+add Team Member
+
+?Engineer
+?Intern
+?Finish
+
+Engineer
+
+?nanme
+?id
+?email
+?gitHub
+ 
+Intern
+?name
+?id
+?email
+?school
+
+```
+
+
 GitHub
 email
-🔌 Installation
+
 Open the terminal and go to the path of the file. 2.Install npm Packages. 3.go to the index file.
 write this command "node index"
 Now is going to appear multiples questions and the questions are the same likes Table of Contents
