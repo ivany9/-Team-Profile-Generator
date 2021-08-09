@@ -7,7 +7,7 @@
 [Description][#Description]
 [Installation][#Installation]
 [Usage][#usage]
-[License][#License]
+[Technology][#License]
 [Contribute][#Contribute]
 
 
@@ -23,8 +23,10 @@
 ## Intallation
 
 ```bash
->npm install 
 >npm init
+>npm install 
+>npm i inquirer
+>npm i jest
 
 ```
 
@@ -32,6 +34,10 @@
 ## Usage
 
 ```bash
+
+>node index
+
+
 
  Manager
 
@@ -62,18 +68,28 @@ Intern
 ```
 
 
-GitHub
-email
+## Testing
 
-Open the terminal and go to the path of the file. 2.Install npm Packages. 3.go to the index file.
-write this command "node index"
-Now is going to appear multiples questions and the questions are the same likes Table of Contents
-🌂 Usage
--_Node Js
+```bash
+>npm run test Employee
+>npm run test Engineer
+>npm run test Intern
+>npm run test Manager
 
--_JavaScript
+```
 
--_npm
+
+
+
+## Node Js
+
+## JavaScript
+
+## npm Inquirer, Jest
+
+## Boostrap
+
+
 
 🎎 License
 badge
