@@ -5,15 +5,24 @@
 
 🎫 Table of Contents
 
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#usage)
-[Technology](#License)
-[Contribute](#Contribute)
+-[Description](#Description)
+
+-[Installation](#Installation)
+
+-[Usage](#usage)
+
+-[Technology](#License)
+
+-[Testing](#testing)
+
+
+-[Contribute](#Contribute)
+
+-[Mockup](#mock-up)
 
 
 
-## 🕹️ Description
+##  Description
     
  ## Actual Behaviour
  The Team Profile Genetator is  pplication that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
@@ -21,7 +30,7 @@
 
 
 
-## Intallation
+## Installation
 
 ```bash
 >npm init
